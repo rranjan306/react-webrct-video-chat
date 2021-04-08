@@ -1,3 +1,4 @@
 # Video Chat App
 
-[Live Site](https://reactvideochat.netlify.app)
+### [Live Site](https://reactvideochat.netlify.app)
+![Chat Application]
